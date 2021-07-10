@@ -12,7 +12,7 @@ git clone https://github.com/Dedsd/DarkBlue-Ice-for-Mailspring.git
 ```
 * if you dont have git, download the zip folder
 
-* On your Mailspring app got to `edit` > `install theme` and select the DarkBlue Ice folder already donwloaded
+* On your Mailspring app go to `edit` > `install theme` and select the DarkBlue Ice folder already donwloaded
 
 * If you made the steps rigth, now your Mailspring looks like amazing with the DarkBlue Ice theme!
 
