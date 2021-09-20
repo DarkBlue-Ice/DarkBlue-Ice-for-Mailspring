@@ -1,6 +1,6 @@
 ## DarkBlue Ice for Mailspring
 ![example](https://cdn.discordapp.com/attachments/774302890142597160/863142837234827314/unknown.png)
-### A Beautiful theme for Mailspring with Dark blue and ice colors distributed in a harmonic way.
+### A Beautiful theme for Mailspring with dark blue and ice colors distributed in a harmonic way.
 
 ---
 
@@ -19,7 +19,8 @@ git clone https://github.com/Dedsd/DarkBlue-Ice-for-Mailspring.git
 ---
 
 ## Color palette:
-![palette](https://cdn.discordapp.com/attachments/774302890142597160/863092467355746304/unknown.png)
+
+See more [DarkBlue Ice](https://github.com/Dedsd/DarkBlue-Ice)
 
 ---
 
