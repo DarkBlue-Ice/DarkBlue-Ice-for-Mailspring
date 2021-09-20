@@ -20,7 +20,7 @@ git clone https://github.com/Dedsd/DarkBlue-Ice-for-Mailspring.git
 
 ## Color palette:
 
-See more [DarkBlue Ice](https://github.com/Dedsd/DarkBlue-Ice)
+### See more [DarkBlue Ice](https://github.com/Dedsd/DarkBlue-Ice)
 
 ---
 
